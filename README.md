@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![HoJun's github stats](https://github-readme-stats.vercel.app/api?HoJun-Song=HoJun-Song)]
+![Hojun's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoJun-Song&show_icons=true&theme=radical)
 
 <!--
 **HoJun-Song/HoJun-Song** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
